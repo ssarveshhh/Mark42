@@ -1,2 +1,2 @@
 # Mark42
-Mark42 was first suit used by Tony Stark
+Suit which has in built ability to think like human
